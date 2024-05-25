@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\SileconBlazorApp\\SileconBlazorApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SileconBlazorApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\SileconBlazorApp.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\SileconBlazorApp\\SileconBlazorApp\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "D:\\SileconBlazorApp\\SileconBlazorApp\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\SileconBlazorApp\\SileconBlazorApp\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\SileconBlazorApp\\SileconBlazorApp\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SileconBlazorApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SileconBlazorApp.props",
+      "PackagePath": "build\\SileconBlazorApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SileconBlazorApp.props",
+      "PackagePath": "buildMultiTargeting\\SileconBlazorApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SileconBlazorApp.props",
+      "PackagePath": "buildTransitive\\SileconBlazorApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
